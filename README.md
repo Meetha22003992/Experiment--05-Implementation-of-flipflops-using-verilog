@@ -173,7 +173,7 @@ qbar=~q;
 end 
 endmodule
 */
-
+```
 ### RTL LOGIC FOR FLIPFLOPS 
 SR Flip Flop:
 
